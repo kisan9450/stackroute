@@ -1,0 +1,25 @@
+body{
+background-image:url('sports1.png');
+background-repeat:no-repeat;
+background-position:200px 200px;
+}
+header{
+text-align:center;
+text-decoration:bold;
+font-family:sans serif;}
+section{
+font-family:sans serif;
+text-decoration:bold;}
+li{display:inline;
+width:150px;
+padding-right:40px;
+font family:sans serif;
+}
+li a{text-decoration:none;}
+ul a:hover{
+text-decoration:bold blue;
+font-size:40px;
+
+}
+
+
